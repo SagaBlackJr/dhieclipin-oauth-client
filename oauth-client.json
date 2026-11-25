@@ -1,0 +1,8 @@
+{
+  "client_id": "https://sagablackjr.github.io/dhieclipin-oauth-client/oauth-client.json",
+  "client_name": "DhieClipin",
+  "redirect_uris": ["http://127.0.0.1:8000/api/narration/elevencreative/oauth/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
